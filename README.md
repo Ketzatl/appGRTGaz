@@ -1,5 +1,7 @@
 # AppGRTGaz
 
+        Cette application a pour but de présenter GRTGaz, ses activités, ses infrastructures ainsi que ses projets pour le futur. J'ai intégré GRTGaz le 18 Mai 2020 en stage (4mois) afin de valider ma 1ère année de Bachelor Développeur Concepteur Web & Mobile. Ce stage m'a permis de découvrir Angular, ce qui a déterminé mon choix pour le développement de cette application.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
